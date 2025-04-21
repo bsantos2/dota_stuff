@@ -44,3 +44,4 @@ class DotaDataset_1p5():
                 num_of_files_per_class[v]+=1 
         return  num_of_files_per_class
     
+    
